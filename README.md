@@ -1,4 +1,4 @@
-# ComfyUI-Translate (WanAIGC)
+# ComfyUI-Translate
 
 [中文] | [English]
 
