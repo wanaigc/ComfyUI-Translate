@@ -5,6 +5,8 @@
 这是一个 ComfyUI 的本地翻译节点，支持 Google TranslateGemma-4B 模型。
 It allows you to use the **TranslateGemma-4b-it** model directly within ComfyUI for text translation and image-text extraction.
 
+![ComfyUI Translate Workflow](docs/image/ScreenShot.png)
+
 ## ✨ Features (功能)
 - 🚀 **Local Inference**: Runs locally, no API key required. (本地运行，无需 API Key)
 - 🖼️ **Multimodal**: Supports text-to-text and image-to-text translation. (支持文本翻译及图像文字提取翻译)
