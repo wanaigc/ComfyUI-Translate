@@ -1,4 +1,3 @@
-```markdown
 # ComfyUI-Translate (WanAIGC)
 
 [中文] | [English]
@@ -69,4 +68,3 @@ ComfyUI/
 ---
 
 **Developed by WanAIGC Team.**
-
