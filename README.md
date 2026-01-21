@@ -11,17 +11,13 @@ It allows you to use the **TranslateGemma-4b-it** model directly within ComfyUI 
 - ⚡ **Auto Caching**: Loads model once, fast inference for subsequent runs. (自动缓存模型，拒绝重复加载)
 - 🛠️ **Smart UI**: Dropdown menu for common languages + Manual override support. (常用语言下拉菜单 + 支持手动输入代码)
 
-## 💻 Requirements (硬件要求)
-- **VRAM**: >= 6GB (8GB recommended)
-- **RAM**: >= 16GB
-
 ## 📦 Installation (安装)
 
 ### 1. Clone the repository (克隆代码)
 Go to your ComfyUI `custom_nodes` folder and run:
 ```bash
 cd ComfyUI/custom_nodes/
-git clone [https://github.com/wanaigc/ComfyUI-Translate.git](https://github.com/wanaigc/ComfyUI-Translate.git)
+git clone https://github.com/wanaigc/ComfyUI-Translate
 
 ```
 
